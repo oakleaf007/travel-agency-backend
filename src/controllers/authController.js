@@ -1,4 +1,4 @@
-import User from "../config/dbConfig.js";
+import User from "../config/userSchema.js";
 import bcrypt from "bcrypt";
 
 
